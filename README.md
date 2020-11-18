@@ -1,7 +1,7 @@
 # Cryptography
-Format-preserving encryption Project University 2018
 
 https://blog.cryptographyengineering.com/2011/11/10/format-preserving-encryption-or-how-to/
+Format-preserving encryption Project University 2018
 
 In cryptography, format-preserving encryption (FPE), refers to encrypting in such a way that the output (the ciphertext) is in the same format as the input (the plaintext). The meaning of "format" varies. Typically only finite domains are discussed, for example:
 
